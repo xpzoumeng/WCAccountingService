@@ -1,0 +1,2 @@
+# WCAccountingService
+HardCore Accounting Service
